@@ -1,0 +1,1 @@
+For this project, I will be creating a Rails app that allows users to sign in and make posts. Everyone will be able to see these posts (even non-users), but only users will be able to see who wrote the posts.
